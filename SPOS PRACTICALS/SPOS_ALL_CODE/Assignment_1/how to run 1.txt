@@ -1,0 +1,4 @@
+put pass1.py and input file in same directory
+
+then in terminal put command
+python pass1.py   {check python version and use to run }

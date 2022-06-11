@@ -1,0 +1,3 @@
+put all files in same directiory and use 
+cammand
+python3 pass2.py

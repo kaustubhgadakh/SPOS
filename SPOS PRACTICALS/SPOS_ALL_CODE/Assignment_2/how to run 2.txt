@@ -1,0 +1,4 @@
+put all files in one directory
+and use command
+python pass2.py
+then run pass2.py file
